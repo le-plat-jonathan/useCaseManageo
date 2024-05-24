@@ -1,0 +1,8 @@
+use useCaseManageo
+
+
+db.users.insertOne ({
+    pseudo: `""`,
+    email: `""`,
+    password: `""` 
+})
